@@ -1,0 +1,4 @@
+__pycache__/
+inbox/
+maildir/
+.python-version
